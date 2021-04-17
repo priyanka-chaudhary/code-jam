@@ -1,4 +1,3 @@
-# your code goes here
 def cal_treats(pet_s):
 	treat_size = 1
 	treat_tot = 1
